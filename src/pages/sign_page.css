@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+*{
+    background-color: white;
+}
+.outer{
+    background-color: #e4e4e4;
+    width: 935px;
+    height: 735px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    margin: 10px;
+    padding-bottom: 10px;
+}
+
+.inner{
+    background-color: #c4c4c4;
+    width: 500px;
+    height: 500px;
+}
+
+.signin{
+    width: 585px;
+    height: 750px;
+}
+
+h1{
+    width: 400px;
+    font-family: 'Nunito',sans-serif !important;
+    font-size: 36px !important;
+    font-weight: 700 !important;
+
+}
+
+.signupbtn{
+    background-color: #1B1633 !important;
+    width: 500px;
+}
+
+.login-account{
+    font-family: 'Nunito Sans','san-serif';
+    font-weight: 600;
+}

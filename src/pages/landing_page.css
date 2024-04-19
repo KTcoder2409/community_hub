@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+*{
+    background-color: #e4e4e4;
+}
+.navbar_text{
+    font-family: 'Pattaya','san-serif' !important;
+    font-size: 40px ;
+    font-weight: 400 ;
+    text-align: left ;
+}
+
+.circle{
+    background-color: #c4c4c4;
+    width: 627px;
+    height: 577px;
+    border-radius: 100%;
+}
+
+.arrow_text{
+    font-family: 'Pattaya','san-serif' !important;
+    font-size: 25px;
+}
+

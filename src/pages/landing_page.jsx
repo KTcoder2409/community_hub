@@ -21,7 +21,7 @@ function LandingPage(){
             <div className="circle position-absolute top-50 start-50 translate-middle"></div>
 
             <div className="arrow position-absolute bottom-0 end-0">
-                <Link to= '/sign' className="navbar-brand d-flex px-5" ><p className='arrow_text'>Get Started &#x2192;</p></Link>
+                <Link to= '/' className="navbar-brand d-flex px-5" ><p className='arrow_text'>Get Started &#x2192;</p></Link>
             </div>
         </>
     )
